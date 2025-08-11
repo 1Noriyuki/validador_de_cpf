@@ -5,5 +5,5 @@
 
 ##  Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=F7DF1E">
 </div>
